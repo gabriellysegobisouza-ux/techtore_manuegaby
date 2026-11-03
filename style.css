@@ -1,7 +1,13 @@
 /*fonte e cores gerais*/
 body {
     font-family: arial sans-serif;
-    background-color: #353941;
-    color: #ccf3ff
+    background-color: #184bb1;
+    color: #7edefc
     margin: 0;
+}
+
+/*tirar as bordas da planilha*/
+table td {
+    border: none;
+    border-collapse: collapse;
 }
