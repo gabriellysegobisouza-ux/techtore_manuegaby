@@ -17,8 +17,8 @@
    ------------------------------------------------------------- */
 body {
   font-family: "Barlow", Arial, sans-serif;   /* fonte dos textos; se a Barlow não carregar, usa Arial */
-  background-color: #f4f3f8;                  /* cor de fundo da página (cinza bem claro, quase branco) */
-  color: #2a2640;                             /* cor padrão de todo o texto (grafite escuro, mais suave que o preto puro) */
+  background-color: #dbdbdb;                  /* cor de fundo da página (cinza bem claro, quase branco) */
+  color: #626363;                             /* cor padrão de todo o texto (grafite escuro, mais suave que o preto puro) */
   margin: 0;                                  /* tira a margem branca que o navegador coloca em volta da página */
   line-height: 1.6;                           /* espaço entre as linhas do texto, facilita a leitura */
 }
@@ -65,7 +65,7 @@ h1 {
 }
 
 h1 + p {
-  color: #f4a6c6;                             /* frase "Informática e Eletrônicos" em rosa (mesma cor dos triângulos do banner) */
+  color: #;                             /* frase "Informática e Eletrônicos" em rosa (mesma cor dos triângulos do banner) */
   margin: 0 0 20px;                           /* aproxima a frase do título e dá espaço embaixo */
   font-size: 1.1rem;                          /* frase um pouco maior que o texto normal */
 }
@@ -84,11 +84,11 @@ table:nth-of-type(2) {
 
 table:nth-of-type(2) td {
   padding: 12px;                              /* altura da faixa do menu */
-  color: #cfcbe0;                             /* cor das barrinhas | entre os links (cinza claro, discretas) */
+  color: #235268;                             /* cor das barrinhas | entre os links (cinza claro, discretas) */
 }
 
 a {
-  color: #16034a;                             /* cor dos links (azul-marinho da marca) */
+  color: #130a3d;                             /* cor dos links (azul-marinho da marca) */
   text-decoration: none;                      /* tira o sublinhado */
   font-weight: 600;                           /* links em seminegrito */
   padding: 6px 14px;                          /* área em volta do link, fica mais fácil de clicar */
