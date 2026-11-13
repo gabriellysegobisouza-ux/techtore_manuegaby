@@ -18,7 +18,7 @@
 body {
   font-family: "Barlow", Arial, sans-serif;   /* fonte dos textos; se a Barlow não carregar, usa Arial */
   background-color: #dbdbdb;                  /* cor de fundo da página (cinza bem claro, quase branco) */
-  color: #626363;                             /* cor padrão de todo o texto (grafite escuro, mais suave que o preto puro) */
+  color: #2f3030;                             /* cor padrão de todo o texto (grafite escuro, mais suave que o preto puro) */
   margin: 0;                                  /* tira a margem branca que o navegador coloca em volta da página */
   line-height: 1.6;                           /* espaço entre as linhas do texto, facilita a leitura */
 }
@@ -97,7 +97,7 @@ a {
 }
 
 a:hover {
-  background-color: #e8457c;                  /* ao passar o mouse, aparece um fundo rosa forte */
+  background-color: #1d0eee;                  /* ao passar o mouse, aparece um fundo rosa forte */
   color: #ffffff;                             /* e o texto do link fica branco */
 }
 
@@ -112,7 +112,7 @@ h2 {
   max-width: 1100px;                          /* largura máxima, alinha com a área dos produtos */
   margin: 48px auto 8px;                      /* espaço em cima, centraliza o bloco e pouco espaço embaixo */
   padding: 0 20px 0 16px;                     /* afasta o texto da borda da tela (resolve o "Nossos" cortado) */
-  border-left: 5px solid #e8457c;             /* barrinha rosa à esquerda do título */
+  border-left: 5px solid #45dde8;             /* barrinha rosa à esquerda do título */
 }
 
 h2 ~ p {
@@ -143,7 +143,7 @@ h2 + table td {
 
 h2 + table td:hover {
   transform: translateY(-6px);                /* o cartão "sobe" 6px ao passar o mouse */
-  border-color: #e8457c;                      /* e a borda fica rosa */
+  border-color: #2115c7;                      /* e a borda fica rosa */
   box-shadow: 0 10px 24px rgba(22, 3, 74, 0.12); /* e ganha uma sombra, como se saísse da página */
 }
 
@@ -173,7 +173,7 @@ h2 + table td p {
 h2 + table td p:last-child {
   font-size: 1.5rem;                          /* preço grande (é o último parágrafo do cartão) */
   font-weight: 600;                           /* preço em seminegrito */
-  color: #e8457c;                             /* preço em rosa forte, para chamar atenção */
+  color: #06aaeb;                             /* preço em rosa forte, para chamar atenção */
   margin-top: 12px;                           /* afasta o preço da descrição */
 }
 
