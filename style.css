@@ -18,7 +18,7 @@
 body {
   font-family: "Barlow", Arial, sans-serif;   /* fonte dos textos; se a Barlow não carregar, usa Arial */
   background-color: #dbdbdb;                  /* cor de fundo da página (cinza bem claro, quase branco) */
-  color: #2f3030;                             /* cor padrão de todo o texto (grafite escuro, mais suave que o preto puro) */
+  color: #adadad;                             /* cor padrão de todo o texto (grafite escuro, mais suave que o preto puro) */
   margin: 0;                                  /* tira a margem branca que o navegador coloca em volta da página */
   line-height: 1.6;                           /* espaço entre as linhas do texto, facilita a leitura */
 }
