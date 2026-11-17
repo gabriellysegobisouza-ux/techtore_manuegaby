@@ -65,8 +65,8 @@ h1 {
 }
 
 h1 + p {
-  color: #;                             /* frase "Informática e Eletrônicos" em rosa (mesma cor dos triângulos do banner) */
-  margin: 0 0 20px;                           /* aproxima a frase do título e dá espaço embaixo */
+  color: #1d0eee                             /* frase "Informática e Eletrônicos" em rosa (mesma cor dos triângulos do banner) */
+  margin 0 0 20px;                           /* aproxima a frase do título e dá espaço embaixo */
   font-size: 1.1rem;                          /* frase um pouco maior que o texto normal */
 }
 
